@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Geoff Keeling"
   avatar           : "bio-photo.jpg"
-  bio              : "Ethics@Google"
-  location         : "Mountain View, CA"
+  bio              : "Ethicist @ Google"
+  location         : "Mountain View"
+  email            : "geoffkeelingbhyat@gmail.com"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_k8b6mYAAAAJ&hl=en&authuser=1"
-  email            : "geoffkeelingbhyat@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Geoff-Keeling"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
