@@ -14,6 +14,6 @@ Previously, I was a postdoc at Stanford University, based in the [Institute for 
 
 In 2020, I completed an Arts and Humanities Research Council funded PhD in Philosophy from the University of Bristol, supervised by Richard Pettigrew and Brad Hooker. I also hold an MA in Philosophy from Bristol and a BSc in Philosophy, Logic, and Scientific Method from the London School of Economics. I have consulted on AI ethics for the UK Law Commission, the Centre for Data Ethics and Innovation, and the Centre for Connected and Automated Vehicles. 
 
-I previously served as President of the [British Postgraduate Philosophy Association](https://bippa.uk/) and on the Executive Committee of the [British Philosophical Association](https://bpa.ac.uk/). I am a Fellow of the [Royal Society of Arts](https://www.thersa.org/) and a Member of the [Aristotelian Society](https://www.aristoteliansociety.org.uk/). Please consider supporting these organizations.
+I previously served as President of the [British Postgraduate Philosophy Association](https://bippa.uk/) and on the Committee of the [British Philosophical Association](https://bpa.ac.uk/). I am a Fellow of the [Royal Society of Arts](https://www.thersa.org/) and a Member of the [Aristotelian Society](https://www.aristoteliansociety.org.uk/). Please consider supporting these organizations.
 
 [Here](https://geoffkeeling.github.io/files/CV.pdf) is my CV.
