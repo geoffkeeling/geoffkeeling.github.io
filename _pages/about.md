@@ -12,5 +12,7 @@ I am a research scientist at Google. I work on machine learning ethics. My backg
 
 <img src="geoffkeeling.github.io/images/bio-photo.jpg" width=40% height=40%>
 
+[]!(https://geoffkeeling.github.io/images/bio-photo.jpg)
+
 Image: [Kasper Dalkarl](https://www.kasperdalkarl.com/)
 
