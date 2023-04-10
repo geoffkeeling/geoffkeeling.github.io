@@ -13,5 +13,3 @@ I am a research scientist at Google. I work on machine learning ethics. My backg
 ![GeoffKeeling](https://geoffkeeling.github.io/images/bio-photo.jpg)
 
 Image: [Kasper Dalkarl](https://www.kasperdalkarl.com/)
-
-<img src="https://geoffkeeling.github.io/images/bio-photo.jpg" width=50% height=50%>
