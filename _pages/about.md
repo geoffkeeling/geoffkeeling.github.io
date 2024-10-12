@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research scientist at Google. I work on the ethics and cognitive science of frontier AI systems. Previously, I was a bioethicist at [Google Health](https://health.google/). Before Google, I was a postdoc at Stanford University, based in the [Institute for Human-Centered AI](https://hai.stanford.edu/) and the [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/). I also spent time at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk) at the University of Cambridge.
+I am a senior research scientist at Google. I work on the ethics and cognitive science of frontier AI systems. Before Google, I was a postdoc at Stanford University, based in the [Institute for Human-Centered AI](https://hai.stanford.edu/) and the [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/). I also spent time at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk) at the University of Cambridge.
 
 [Here](https://geoffkeeling.github.io/files/CV.pdf) is my CV.
 
