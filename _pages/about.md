@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Geoff Keeling"
-excerpt: ""
+excerpt: "Senior Research Scientist, Google"
 author_profile: true
 redirect_from: 
   - /about/
