@@ -14,7 +14,8 @@ With Iason Gabriel and Arianna Manzini, I led the 2024 Google DeepMind report on
 
 Before Google, I did my postdoc with [Rob Reich](https://en.wikipedia.org/wiki/Rob_Reich) at Stanford University, where I had a joint appointment between the [Institute for Human-Centered AI](https://hai.stanford.edu/) and the [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/). With [Alex Tamkin](https://www.alextamkin.com/), I successfully lobbied for and co-led the AI Safety chapter of the 2021 report on the [Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258/pdf). The report has over [5,000](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_k8b6mYAAAAJ&citation_for_view=_k8b6mYAAAAJ:roLk4NBRz8UC) citations and was covered by both [Forbes](https://www.forbes.com/sites/arunshastri/2022/08/16/building-on-foundation-models-ensure-they-are-trustworthy/?sh=55421c610c3b) and the [Economist](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress). 
 
-In addition to my role at Google, I am a Fellow at the [Institute of Philosophy](https://philosophy.sas.ac.uk/) in the School of Advanced Study, University of London, and an Associate Fellow at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk) at the University of Cambridge. 
+In addition to my role at Google, I am a Fellow at the [Institute of Philosophy](https://philosophy.sas.ac.uk/) in the School of Advanced Study, University of London, and an Associate Fellow at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk) at the University of Cambridge. I am also involved in the [London AI and
+Humanity Project](https://www.ai-humanity-london.com/).
 
 [Here](https://geoffkeeling.github.io/files/CV.pdf) is my CV.
 
