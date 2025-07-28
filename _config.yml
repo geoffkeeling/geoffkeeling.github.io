@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Geoff Keeling"
-  avatar           : #"bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : #""
   location         : #""
   email            : "geoffkeelingbhyat@gmail.com"
