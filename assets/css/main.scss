@@ -39,3 +39,18 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Fix for off-screen mobile dropdown menu
+   ========================================================================== */
+@media screen and (max-width: 576px) {
+  .sidebar .author__urls {
+    left: 0;
+    right: auto; /* Override the theme's default right alignment */
+  }
+
+  .sidebar .author__urls:before,
+  .sidebar .author__urls:after {
+    left: 25px; /* Reposition the menu's pointer arrow */
+  }
+}
