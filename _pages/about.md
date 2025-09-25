@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Geoff Keeling"
-excerpt: "Staff Research Scientist, Google"
+title: "Geoff Keeling | AI & Philosophy"
+excerpt: "Staff Research Scientist, Google. Research on ethics, alignment, model welfare, and machine cognition."
 author_profile: true
 redirect_from: 
   - /about/
