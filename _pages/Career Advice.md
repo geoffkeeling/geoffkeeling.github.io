@@ -34,7 +34,7 @@ People often ask me how to build a career in Responsible AI. Here is the best ad
 
 ---
 
-<h1 id="section-1">2. Caveats</h1>
+<h1 id="section-1">1. Caveats</h1>
 
 Take this advice with a grain of salt. For anything that you want to achieve, the best advice on how to achieve that thing will come from people who have achieved that thing countless times. For example, if you want to make a chair, you should probably get advice from a carpenter who has made chairs countless times. Such a carpenter is likely to have a good causal model of how input variables in the construction of chairs relate to the relevant outcome variables. Landing a dream job is a rare event for most people. Hence most people have pretty naff causal models of how to land dream jobs and massively underweight the role of circumstance and sheer luck. I think the best careers advice comes from experienced hiring managers, recruiters, bar raisers, and the like. They have seen it all from the other side of the table and have great causal models with respect to the features of applications and candidates that are conducive to success. In this regard there are many people who are better qualified to give careers advice than I am.
 
@@ -64,12 +64,12 @@ Last, I’d recommend getting some tailored advice from [80,000 Hours](https://8
 
 ---
 
-<h3 id="section-3">2. Finding a Niche</h3>
+<h2 id="section-3">2. Finding a Niche</h2>
 
 Responsible AI, as a field, is not yet at a level of maturity where career paths are well-defined. The people who work in Responsible AI often carve out niches for themselves and bend the scope of pre-established roles (e.g. product management, consultancy, policy research) in a Responsible AI direction. The point is that you need to be entrepreneurial, although this is liable to change as the field becomes more mature. Here are three pieces of advice for carving out a bespoke career path for yourself within Responsible AI. 
 
 
-<h3.1 id="section-3.1">3.1. Understand Skill Arbitrage</h3.1>
+<h3 id="section-3.1">3.1. Understand Skill Arbitrage</h3>
 
 You can greatly increase your value on the job market by acquiring cheap skills in one domain and selling them in another domain where those skills are in short supply and high demand.  
 
@@ -78,7 +78,7 @@ For example, basically everyone who studies philosophy at the graduate level can
 An important corollary to this point is that you can massively increase your value on the job market by acquiring rare combinations of skills that are in high demand. For example, the set of people who are competent AI policy specialists _and_ competent software engineers is very small. So, if you are an AI policy specialist you can greatly increase your value on the job market by learning to code at least reasonably well. That puts you in a very rare skills bucket and enables you to engage in high-value work like translating policy ideas into engineering practice and interfacing between policy and engineering teams. My general advice in this regard is to pick a base skillset (e.g. policy) and then acquire 1-2 other skills (e.g. ML coding and specialist knowledge of CBRN risks) such that the combination of skills is in high demand and the set of people who share the relevant combination of skills is less than ~10 globally. This strategy requires you to focus on getting bespoke jobs but the payoff in terms of market value is definitely worth it.
 
 
-### 3.2. Don’t Follow the Crowd, Anticipate It {: #section-3.2 }
+<h3 id="section-3.2">3.1. Don’t Follow the Crowd, Anticipate It </h3>
 
 You ideally want to do good work on topics that are massively significant. Such topics matter in their own right, but are also instrumentally valuable insofar as a lot of useful stuff follows from doing good work on these topics (e.g. funding, citations, job opportunities). Where most people mess up is in chasing trends rather than anticipating them. Fields can very quickly become saturated as everyone rushes to get involved in the next big thing, and running into a saturated field is essentially a career cul-de-sac as the supply of labour exceeds demand. 
 
@@ -89,7 +89,7 @@ My mental model here is one of making exponential progress by stacking diminishi
 There’s also obviously an element of risk here. Forecasters can badly misjudge the direction that things will go in. Three points in response: First, as with investing, diversification is important. You don’t have to go all in on any particular area. In my own career, I’ve invested heavily in some high-risk high-reward areas (e.g. AI welfare), but I’ve done that alongside substantial investment in much safer bets (e.g. ML fairness in healthcare). I believe that AI welfare will be a massively important public conversation. But I could be mistaken, and if I am, I have maintained active participation in other more conventional literatures that I can lean back into if needed. Second, don’t underestimate your agency in making big things happen. For example, whether or not a literature that you’re contributing to becomes a big deal is in part within your control. Doing great work will attract great people. Third, with the exception of frontier ML work (in which forecasts are typically based on extrapolating empirical regularities that may or may not continue to hold indefinitely), academic forecasting in Responsible AI is essentially a matter of information arbitrage because most fields lag behind the technological frontier. There is, for example, a 1-3 year time-lag between a particular ML development and philosophers starting to discuss that development in the literature. So simply being ahead of the curve with respect to the philosophers and on the curve with respect to ML is usually sufficient. But this time-lag is probably shrinking.
 
 
-### 3.3. Leverage Branding {: #section-3.2 }
+<h3 id="section-3.3">3.3. Leverage Branding </h3>
 
 Did I mention that I went to Stanford? I appreciate that this sounds like extremely crass advice, but it is the case that being affiliated with prestigious universities and companies makes a huge difference to your career. I first started thinking about this point when I was doing my PhD at Bristol. For context, Bristol is a good university in the UK, but it is not Oxford or Cambridge. I noticed that the placement record for Bristol’s PhD programme (that is, a list of the places that PhD graduates from the relevant department end up getting jobs) was not great. Many people did not get jobs and those that did get jobs typically ended up at comparable and often lower ranked universities than Bristol. I realised that I needed to get myself in a better reference class before hitting the job market and it seemed like the easiest way to do this was to get a better university affiliation. So, I applied to a research assistant position at the Leverhulme Centre for the Future of Intelligence at the University of Cambridge and worked extremely hard to ensure that I got the position. (That is, I prepped for interviews like my life depended on it.) Fortunately, I got the job and was able to apply to postdocs at Stanford and Oxford with a dual affiliation.
 
@@ -100,23 +100,23 @@ I also want to register that these big-name universities and companies can seem 
 
 ---
 
-<h4 id="section-4">4. Networking</h4>
+<h2 id="section-4">4. Networking</h2>
 
 I am autistic and therefore frightened of people. Hence networking is not something that I am particularly good at and not something that I have invested a huge amount of time doing. But I think my aversion to networking has helped me make a stark assessment of the cost-benefit profile of networking with respect to career growth. If I thought it was more important, I would hold my nose and do more of it. But, as it stands, I don’t think it’s that important. What follows are some points which try to unpack and contextualise this assessment. The advice here is specific to research careers in industry and academia and may not generalise to network-heavy career paths like community building, advocacy and ethics consulting.
 
-### 4.1. Everyone Networks {: #section-4.1 }
+<h3 id="section-4.1">4. Everyone Networks</h3>
 
 The basic problem with networking is that (almost) everyone is doing it. Here I’m talking about the kind of networking that involves sending cold outreach messages on LinkedIn or staying behind after someone gives a talk to introduce yourself. If you are at Career Level 1 and you want to network with people at Career Level 2, you need to realise that each person at Career Level 2 has almost everyone from Career Level 1 trying to network with them. That makes it extremely difficult for Career Level 1 folks to stand out from the crowd. It is, of course, possible to stand out from the crowd. But what that takes is significant time investment, both in terms of networking to a broader set of people at Career Level 2, but also making sure that the individual networking instances are well-tailored (i.e. you need to research each person who you are trying to network with, know their work inside out, and make a really excellent pitch to them). 
 
 
-### 4.2. Opportunity Costs {: #section-4.2 }
+<h3 id="section-4.2">4. Opportunity Costs</h3>
 
 Because networking well requires a significant time investment, it carries a massive opportunity cost. Time spent networking is time not spent reading or writing or building stuff. My view is that it’s better to invest the time growing your skills and creating value than it is to invest that same time networking, all else equal. To be sure, the probability of a successful networking instance (i.e. introducing yourself to someone who ends up tangibly benefitting your career) is much higher when you deliver them something of value. For example, you could read a study, adapt it in some novel way, and then email the researcher who led the study about what you did. That’s a tantalising hook, and the kind of thing that might land you an internship. This is a much better way to network than sending out hundreds of non-tailored outreach emails.
 
 It’s also worth noting that networking is not the only way to attract the attention of higher-status people. I’ve found that if you do good work and put it out there (e.g. presenting at conferences and publishing papers), then people will come to you. Here what’s important is that each time you present your work at a conference, you give a presentation that’s so obscenely better delivered and better thought-out than the other presenters that higher-status people can’t help but to network with you. Ditto for writing excellent papers. That’s not to say that the occasional well-targeted email to a high-status person isn’t worth doing. But really the best way to network is to become so valuable that other people want to network with you.
 
 
-### 4.3. Aim Low {: #section-4.3 }
+<h3 id="section-4.3">4.3 Aim Low</h3>
 
 Despite the above, I think it’s important to keep your eyes peeled for opportunities to engage higher-status people in conversation. For example, at conferences, I think it’s generally a good idea to attend the conference dinner and any drinks associated with the conference. That’s a good way to talk to higher-status people, and even if they don’t give you an amazing career opportunity, they may well give useful career advice or feedback on stuff that you’re working on. 
 
@@ -124,17 +124,17 @@ Where many people mess-up is thinking that only the very highest-status people a
 
 To spell out this idea a bit further, there are, at least, three good reasons to concentrate on somewhat higher-status people as opposed to exceptionally high-status people. First, the somewhat higher-status people have fewer people networking at them, so it’s easier to get their attention. Second, somewhat higher-status people often have a more nuts-and-bolts picture of the current job market because they have been through it recently. That’s not to say that very high-status people lack that understanding. Some have an exceptionally clear picture of the job market. But I find that somewhat higher-status people (e.g. PhDs, postdocs) often have useful information about the on-the-ground reality of applying to jobs in their field. Third, somewhat higher-status people are often willing to dedicate more time to up-and-coming people, at least compared to exceptionally high status people. The latter are generally very busy.
 
-### 4.4. Second-Order Networking {: #section-4.4 }
+<h3 id="section-4.4">4.4. Second-Order Networking</h3>
 
 Second-order networking is the idea of getting other people to network on your behalf, rather than doing the networking yourself. I’ve found this to be one of the most powerful forms of networking. Basically every high-status person has a trusted ‘inner circle’ of colleagues, such that if those colleagues vouch for someone, they will at least be willing to talk to the relevant person. The people in the ‘inner circle,’ in turn, have their own ‘inner circles.’ Hence an extremely effective strategy is to gradually fall into the orbit of high-status people by giving a clear value-add to second-degree ‘inner circle’ contacts, so that a second-degree ‘inner circle’ person vouches for you to a first-degree ‘inner circle’ person, who in turn vouches for you to the relevant high-status person. Here I cannot stress enough that the strategy will not work unless you are providing clear value-add to each person in the chain. Vouching for someone is a big deal because it takes up political capital, i.e. if someone vouches for you and you are a dud, it makes them look bad and gives them less leverage with the high-status person in future.
 
-### 4.5. Small Wins {: #section-4.5 }
+<h3 id="section-4.5">4.5. Small Wins</h3>
 
 Many people get disillusioned with networking because they want some particular outcome (e.g. an internship), and no matter how hard they try nobody that they talk to is willing to give them that outcome. But higher-status people can give you all kinds of things that, while falling short of the desired outcome, are nevertheless conducive to the realisation of that outcome. You might get important information that some high-status person is a bad PhD supervisor, for example, where failure to get that information could easily have set your career back by many years or totally fucked it altogether. You might get important information about the politics of Responsible AI. It matters, for example, that you understand the role of the Effective Altruism movement in funding various AI safety and governance initiatives, and how getting involved with the EA community can open certain doors, but also close others (good luck getting a job at DAIR coming out of Stuart Russell’s lab). You might even get an intelligent steer on a research project that makes the difference between a publication in FAccT and a devastating series of rejections that makes you give up on Responsible AI. The lesson is that even seemingly small things can have big consequences with respect to your desired outcome over the long term. 
 
 One thing I wish I’d known when I was starting out is the information density with which high-status people communicate. People who are extremely successful are judicious with what they say and tend to speak with extreme precision. If such a person is telling you something, there is a good chance that what they are telling you is extremely important, even if it is not immediately obvious to you how or in what way it is important. This is not to say that you should believe the things that extremely successful people tell you without critical reflection. Rather, the point is to listen very carefully to what they say because the average information per word spoken is much greater for extremely successful people than it is for the general population. For example, a VP at Google who I respect massively once said to me that ‘if a person more junior than you is motivated to do something, just get out of the way.’ (This was in the context of me having just got in the way of someone who was independently motivated to do something.) I didn’t appreciate in the moment how valuable this feedback was, but after stewing on it for a few months I came to realise that in eighteen words he’d communicated the principal difference between good managers and bad managers in high-agency environments.
 
-### 4.6. Gradient Ascent {: #section-4.6 }
+<h3 id="section-4.6">4.6. Gradient Ascent</h3>
 
 This advice may be unhelpful because the whole point of networking is to find a good job. But one of the best ways to network is to work at a place with great people. Then it’s hard not to network as you naturally exchange ideas with colleagues. The actionable version of this advice is to gradually improve your network by gradually improving your job. Landing positions in orgs that are closer to where you would like to be will definitely increase the chance of bumping into people who can connect you with the kind of individuals that you ultimately want to speak with. The degree to which my personal network grew once I landed roles at Cambridge, Stanford and Google is hard to overstate. These places are bursting at the seams with amazing people.
 
@@ -142,12 +142,11 @@ One related piece of advice is that there’s stuff you can do in the workplace 
 
 ---
 
-<h5 id="section-5">5.Job Applications</h5>
+<h2 id="section-5">5.Job Applications</h2>
 
 The process of applying for jobs in Responsible AI is quite mysterious. What looks like a well put together process on the outside may be much more arbitrary than it appears, and hiring managers ought to be understood as ordinary people with flaws and biases. Hiring is not fair. Often it’s disorganised and in some cases the entire process is a front for hiring a pre-selected candidate. I’m sorry that this is the situation. Here are some tips to navigate the process. 
 
-
-### 5.1. Quality, not Quantity {: #section-5.1 }
+<h3 id="section-5.1">5.1. Quality, not Quantity</h3>
 
 Jobs in Responsible AI often receive many hundreds of applications. These numbers make the job market look more competitive than it is. In reality, the vast majority of applicants are not even remotely suitable for the relevant roles. Serious candidates often make up ~10% of applicants. Hence it’s pointless to send out a generic CV and cover letter to hundreds of roles that seem like they might be a good fit. You will not beat a candidate who has invested that same time in finding a role that is a perfect fit for their skillset and crafting the perfect application.
 
@@ -155,8 +154,7 @@ You obviously cannot guarantee that you will get any particular job. But I think
 
 But wait, isn’t this a risky strategy? Yes, kind of. The basic trade-off here is analogous to the bias-variance problem in ML. You can make yourself an obscenely good fit for a particular kind of role, but then you will not generalise well to other roles, and so will be reliant on specific kinds of roles coming up or even on the creation of bespoke roles. The alternative is to be an OK fit for many different roles in which case you will be far less likely to succeed in any particular application but will be able to apply to more roles. How you adjudicate this trade-off is a matter of personal preference and I’d recommend pursuing my strategy only if you are willing to put in the work to reliably end up in the top 5-10% of applicants in a small handful of roles. My hunch is that if you want to be massively impactful it is best to go all-in on something specific. But the advice that I’m giving here could easily be tainted by survivorship bias, so take it with a massive grain of salt. To steel man the other side: it’s possible that the vast majority of people who tried my strategy failed.
 
-
-### 5.2. Honest Signals {: #section-5.2 }
+<h3 id="section-5.2">5.2. Honest Signals</h3>
 
 Recruitment platforms are like an extremely dry version of Tinder where hiring managers are forced to swipe through hundreds of profiles in which applicants present highly curated material about themselves in the hope of landing a first date. To stand out you need the hiring manager to gasp with delight when they see your application. Here are three tips on how to do this.
 
@@ -164,7 +162,7 @@ First, see above. If the role is only a moderately good fit, it’s generally no
 
 There is also a related point which pertains to what to emphasise in CVs and cover letters. My mental model is that you want to showcase the marginal difference between you and other candidates, i.e. what do you have that other people don’t have, relative to the needs of the hiring manager. Everything else is essentially noise. For example, your BSc in Computer Science is probably not the most interesting feature of your application to a research engineer role. Like 80% of the people applying have BSc degrees in Computer Science, so it’s a waste of signal to overcommunicate that aspect of your portfolio. In contrast, your random side project that builds on the hiring manager's work will really make you stand out. Double down on stuff which distinguishes you given what the hiring manager cares about.
 
-### 5.3. Uninformed Hiring Managers {: #section-5.3 }
+<h3 id="section-5.3">5.3. Uninformed Hiring Managers</h3>
 
 The advice above assumes that the hiring manager knows what they’re doing. This is a fairly safe bet for companies that already have Responsible AI teams of the kind that you want to apply to. But it’s not a safe bet in general. It’s possible that the role to which you’re applying is the first ever Responsible AI role in the company, or that it’s the first Responsible AI role of a particular kind, or that the company has Responsible AI people of the relevant kind but the org that’s hiring doesn’t know about them or their hiring practices. When this happens, the process by which applicants are evaluated can be totally insane. In the worst case, we’re talking about humanities and social science PhDs being forced to attempt coding interviews despite never having attempted a LeetCode problem. But the more common failure mode is where the hiring manager has a preconceived idea that what Responsible AI people do that’s badly confused. For example, the hiring manager might think that they need an ethical framework, and so their rationale for hiring an ethicist is to bring in an expert who can make an ethical framework. The hiring manager may in turn fail to realise that ethics consultants are the kinds of ethicists who make frameworks and instead advertise the role as being for academic moral philosophers (where academic moral philosophy is a distinctly frameworkless discipline). Hence the interview process may involve a bunch of questions about frameworks which are totally miscalibrated.
 
@@ -172,8 +170,7 @@ My advice for these situations is to assess in your initial screening call the d
 
 The fact that some hiring managers don’t have a clear picture of your skillset can also be an advantage. I’ve had and heard about some really excellent interview practices in which the interviewer simply asks the candidate what kind of value they bring to the table. This kind of honest open-mindedness and willingness to learn about your skillset is an excellent signal. 
 
-
-### 5.4. Creating an Ideal Role {: #section-5.4 }
+<h3 id="section-5.4">5.4. Creating an Ideal Role </h3>
 
 It can make sense to get your foot in the door at a company by landing a job that you are qualified for and then working from that platform to carve out your ideal role. This is essentially the strategy that I employed at Google. The research scientist position that I currently hold did not exist at the time of my application (although there did exist one or two similar positions at DeepMind). I initially applied for a bioethicist position at Google Health which was specifically targeted at academic philosophers. The bioethics role was at least on paper a good fit for me. During my PhD, I worked as a research assistant at Cambridge, and the focus of that position was explainability for medical AI systems. I also had one forthcoming paper on ML fairness in healthcare and two further health-related papers in the pipeline, alongside two bioethics papers in the _Journal of Medical Ethics_ that I’d published as an MA student. So while bioethics was not my core focus, I had enough signals of competence and fit to successfully land the position. 
 
@@ -192,11 +189,11 @@ I started the new role in Google Research on Monday 16th January 2023. On Friday
 
 ---
 
-<h6 id="section-5">6.Getting Promoted</h6>
+<h2 id="section-6">6.Getting Promoted</h2>
 
 My advice on promotion speaks mostly to industry roles. For context, I joined Google as an L4 Bioethicist on a Trust and Safety ladder and switched to Research Scientist after 18 months. When I became a Research Scientist, I was promoted from Research Scientist (L4) to Senior Research Scientist (L5) within 10 months, and then promoted to Staff Research Scientist (L6) 18 months after that. Hence I ended up as a Staff Research Scientist at age 30, which is rare but not unheard of at a company like Google. It took a while to get a clear sense of what’s involved in promotions, but once I was on the ladder I managed to advance fairly quickly. 
 
-### 6.1. Impact {: #section-6.1 }
+<h3 id="section-6.1">6.Getting Promoted</h3>
 
 People always say that to get promoted you need to have impact. What makes this guidance unhelpful is that ‘impact’ is a thin concept. It’s a bit like telling someone in the midst of a moral dilemma to do the right thing. Obviously, they should do the right thing. But ‘rightness’ is too thin as a concept to guide action. Making sense of impact in Responsible AI is more complicated still because many Responsible AI roles are focused on stopping bad things from happening, and it’s difficult to evidence subjunctive conditionals in a promo packet (e.g. ‘were I to have acted differently, some bad thing would have happened'). Furthermore, even if you achieve a positive outcome rather than preventing a negative outcome, the outcome variables with which we are concerned in Responsible AI can be rather elusive and hard to measure (e.g. fairness). 
 
@@ -219,7 +216,7 @@ For the example of creating an early-stage ethics intervention, again having som
 The overall lesson here is that there’s many ways to show impact, but you need to create the measurement infrastructure to demonstrate the impact that you’re having. This requires a clear sense of what you want to achieve through your initiative and for the initiative to succeed by the lights of the success criteria that you initially proposed. To be totally honest, you will probably need to create a lot of this infrastructure yourself because nobody is going to create it for you. But that’s part and parcel of being in a new field where the path is not well-trodden. 
 
 
-### 6.2. Collaboration {: #section-6.2 }
+<h3 id="section-6.2">6.2. Collaboration</h3>
 
 One trap that people can fall into when trying to get promoted is focusing too much on their own individual impact. Here’s three ways in which overindexing on your own impact is harmful. First, to be promoted you need to be well-liked, as nobody wants to promote an asshole. A tendency to focus on your own impact rather than uplifting others is a good way to become an asshole. Second, being promoted requires having outsized impact, and having outsized impact often requires leveraging others in the service of your goals. There’s only so much that one person can do individually, and at L5 and beyond the kind of impact that you need to have in order to get promoted is rarely the kind of impact that can be achieved by a solo-act. Third, and relatedly, at L5 and beyond, mentoring and empowering others is part of the job description, so you can’t move forward unless you’re actively and demonstrably helping others to advance their careers.
 
@@ -233,7 +230,7 @@ One big question is whether it’s best to first get involved in a project as a 
 
 One final point is that you should try to avoid getting involved in ineffective collaborations. The best way to do this is to involve yourself only in collaborations that are led by people who have a demonstrated track-record of delivering impact. It’s also possible for a collaboration to start out effective and then become ineffective; for example, due to poor management or bad execution on the part of core contributors. In cases like these it’s fine to pull out. There’s no point flogging a dead horse.  
 
-### 6.3. Sponsors {: #section-6.3 }
+<h3 id="section-6.3">6.3. Sponsors</h3>
 
 Getting promoted requires concrete evidence of outsized (i.e. next level) impact. You need to do big and impressive things beyond the scope of your current level that can be documented and measured so that it is hard for anyone to deny that you’re underlevelled. But to do big stuff you need sponsors to back projects and own any risks associated with them. And to be clear, all projects worth doing in terms of potential impact have substantial risks attached to them. The skill to master is selling the upside of projects to senior sponsors who can own the downside.
 
@@ -248,7 +245,7 @@ Two further points. First, as your status grows, it becomes necessary to acquire
 
 ---
 
-<h7 id="section-5">7.Getting Promoted</h7>
+<h2 id="section-7">7.Getting Promoted</h2>
 
 My qualitative observation is that Responsible AI folks are not doing well as a collective. There is a lot of anxiety about the future which is quite disheartening. To make matters worse, being a Responsible AI person often feels like it’s antithetical to the move-fast-and-break-things ethos of Silicon Valley which gives you the distinctive sense that you’re someone who’s in the way and not someone who’s contributing to the collective mission of the industry. Worse still, there’s a lack of structure in the field at present which means that everyone is beating-out their own paths. The unstructured environment makes it hard to know whether you’re moving in an optimal direction or whether you’re making the problems that you’re trying to solve worse. 
 
