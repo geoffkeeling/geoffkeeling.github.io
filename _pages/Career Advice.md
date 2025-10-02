@@ -32,8 +32,6 @@ People often ask me how to build a career in Responsible AI. Here is the best ad
   * [6.3. Sponsors](#section-6.3)
 * [7. Mental Health](#section-7)
 
----
-
 <h1 id="section-1">1. Caveats</h1>
 
 Take this advice with a grain of salt. For anything that you want to achieve, the best advice on how to achieve that thing will come from people who have achieved that thing countless times. For example, if you want to make a chair, you should probably get advice from a carpenter who has made chairs countless times. Such a carpenter is likely to have a good causal model of how input variables in the construction of chairs relate to the relevant outcome variables. Landing a dream job is a rare event for most people. Hence most people have pretty naff causal models of how to land dream jobs and massively underweight the role of circumstance and sheer luck. I think the best careers advice comes from experienced hiring managers, recruiters, bar raisers, and the like. They have seen it all from the other side of the table and have great causal models with respect to the features of applications and candidates that are conducive to success. In this regard there are many people who are better qualified to give careers advice than I am.
@@ -43,8 +41,8 @@ The salient point to look out for is that my advice will be tainted with survivo
 One final caveat is that this advice is not for everyone. Don’t take what I say at face value. Read it carefully, think about it and make up your own mind on the degree to which my advice applies to you and the circumstances in which you find yourself. It’s possible, for example, that you have a different risk tolerance to me or that you value job security more than I do. I suspect that you might get most out of the advice by making precise in what respects my advice fails to apply to your situation. And that’s great. The whole point of writing this stuff down is to help you get to where you want to go, and it doesn’t matter to me whether you use it as an instruction manual or as material to rip the shit out of in order to formulate much better advice for your situation.
 
 
----
 <h2 id="section-2">2. First Steps</h2>
+---
 
 This section is for people who don’t currently work in Responsible AI but would like to. What I’m trying to do is characterise the set of options available to people who are looking to break into the field. 
 
@@ -62,9 +60,9 @@ It may even be worth doing a PhD. Whether or not to do a PhD is an extremely per
 
 Last, I’d recommend getting some tailored advice from [80,000 Hours](https://80000hours.org/) or getting a mentor through the All Tech is Human [mentorship programme](https://alltechishuman.org/responsible-tech-mentorship-program). Generic advice is only so helpful.
 
----
 
 <h2 id="section-3">3. Finding a Niche</h2>
+---
 
 Responsible AI, as a field, is not yet at a level of maturity where career paths are well-defined. The people who work in Responsible AI often carve out niches for themselves and bend the scope of pre-established roles (e.g. product management, consultancy, policy research) in a Responsible AI direction. The point is that you need to be entrepreneurial, although this is liable to change as the field becomes more mature. Here are three pieces of advice for carving out a bespoke career path for yourself within Responsible AI. 
 
@@ -98,9 +96,8 @@ Once I got to Stanford, things felt qualitatively different. There is a massive 
 I also want to register that these big-name universities and companies can seem out of reach. It’s extremely difficult to get into Cambridge, Stanford or Google, and I don’t want to trivialise how much effort is required to make these leaps. Much of what I say in the Job Applications section helps to demystify the process of breaking into these top-tier institutions.
 
 
----
-
 <h2 id="section-4">4. Networking</h2>
+---
 
 I am autistic and therefore frightened of people. Hence networking is not something that I am particularly good at and not something that I have invested a huge amount of time doing. But I think my aversion to networking has helped me make a stark assessment of the cost-benefit profile of networking with respect to career growth. If I thought it was more important, I would hold my nose and do more of it. But, as it stands, I don’t think it’s that important. What follows are some points which try to unpack and contextualise this assessment. The advice here is specific to research careers in industry and academia and may not generalise to network-heavy career paths like community building, advocacy and ethics consulting.
 
@@ -140,9 +137,10 @@ This advice may be unhelpful because the whole point of networking is to find a 
 
 One related piece of advice is that there’s stuff you can do in the workplace to leverage the people around you as helpful contacts. First, create opportunities for others. You want to be like the workplace version of Oprah: you have an opportunity, and you have an opportunity… When you help other people, it’s likely that they will help you back at some later time, and even if that person lacks the leverage to benefit you directly (e.g. because they are more junior), they will probably say nice things about you which makes better-leveraged people want to help you. Second, be very competent. You can get surprisingly far by promising to deliver something high-quality in a given timeframe and then actually delivering it in that timeframe. Third, you can communicate to more senior colleagues ways in which you are looking to grow your career. Senior people have often benefitted from mentors and are often happy to become mentors themselves. If your workplace is not like this, I recommend that you find a better one.
 
----
+
 
 <h2 id="section-5">5. Job Applications</h2>
+---
 
 The process of applying for jobs in Responsible AI is quite mysterious. What looks like a well put together process on the outside may be much more arbitrary than it appears, and hiring managers ought to be understood as ordinary people with flaws and biases. Hiring is not fair. Often it’s disorganised and in some cases the entire process is a front for hiring a pre-selected candidate. I’m sorry that this is the situation. Here are some tips to navigate the process. 
 
@@ -187,9 +185,8 @@ Fortunately, I got lucky. Since joining Google I’d made a concerted effort to 
 I started the new role in Google Research on Monday 16th January 2023. On Friday 20th, Google did its first ever massive round of layoffs and the entire org of which I was previously a part was cut. Had I started one week later I would have lost my job. Machiavelli talks about the twin forces of _virtue_ and _fortune_. I think this ordeal involved a healthy dose of both. It was within my control to anticipate that layoffs were imminent, build a strong network of advocates beyond my immediate team, and be so obviously competent that hiring me was a no-brainer. It was also in my control to initiate the transfer as soon as possible, which was needed because transferring me in the context of a hiring freeze took six months all-told. But I also had the fortune to meet the right people at the right time, for critical conversations to go well, and for my start date to be ahead of the layoffs. I’m not sure that what I have said here constitutes a playbook for carving out a dream job within a tech company, but it is certainly one way to do it.
 
 
----
-
 <h2 id="section-6">6. Getting Promoted</h2>
+---
 
 My advice on promotion speaks mostly to industry roles. For context, I joined Google as an L4 Bioethicist on a Trust and Safety ladder and switched to Research Scientist after 18 months. When I became a Research Scientist, I was promoted from Research Scientist (L4) to Senior Research Scientist (L5) within 10 months, and then promoted to Staff Research Scientist (L6) 18 months after that. Hence I ended up as a Staff Research Scientist at age 30, which is rare but not unheard of at a company like Google. It took a while to get a clear sense of what’s involved in promotions, but once I was on the ladder I managed to advance fairly quickly. 
 
@@ -243,9 +240,8 @@ As you progress, you will need to make bigger asks from your sponsors. Hence it 
 Two further points. First, as your status grows, it becomes necessary to acquire sponsors from outside your reporting chain. This includes people within the company who can champion the work, people who have the power to block the work, and people who have the power to scale the work. Second, and relatedly, sponsorships need to be reinforced. Well-intentioned sponsors can be overruled or placed in situations where advocating for you is unacceptably costly, and that’s something that needs to be budgeted in. The broader your advocacy base the better.
 
 
----
-
 <h2 id="section-7">7. Mental Health</h2>
+---
 
 My qualitative observation is that Responsible AI folks are not doing well as a collective. There is a lot of anxiety about the future which is quite disheartening. To make matters worse, being a Responsible AI person often feels like it’s antithetical to the move-fast-and-break-things ethos of Silicon Valley which gives you the distinctive sense that you’re someone who’s in the way and not someone who’s contributing to the collective mission of the industry. Worse still, there’s a lack of structure in the field at present which means that everyone is beating-out their own paths. The unstructured environment makes it hard to know whether you’re moving in an optimal direction or whether you’re making the problems that you’re trying to solve worse. 
 
