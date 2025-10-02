@@ -34,7 +34,7 @@ People often ask me how to build a career in Responsible AI. Here is the best ad
 
 ---
 
-<h2 id="section-2">2. Caveats</h2>
+<h1 id="section-1">2. Caveats</h1>
 
 Take this advice with a grain of salt. For anything that you want to achieve, the best advice on how to achieve that thing will come from people who have achieved that thing countless times. For example, if you want to make a chair, you should probably get advice from a carpenter who has made chairs countless times. Such a carpenter is likely to have a good causal model of how input variables in the construction of chairs relate to the relevant outcome variables. Landing a dream job is a rare event for most people. Hence most people have pretty naff causal models of how to land dream jobs and massively underweight the role of circumstance and sheer luck. I think the best careers advice comes from experienced hiring managers, recruiters, bar raisers, and the like. They have seen it all from the other side of the table and have great causal models with respect to the features of applications and candidates that are conducive to success. In this regard there are many people who are better qualified to give careers advice than I am.
 
@@ -44,8 +44,7 @@ One final caveat is that this advice is not for everyone. Don’t take what I sa
 
 
 ---
-
-## 2. First Steps {: #section-2 }
+<h2 id="section-2">2. First Steps</h2>
 
 This section is for people who don’t currently work in Responsible AI but would like to. What I’m trying to do is characterise the set of options available to people who are looking to break into the field. 
 
@@ -65,11 +64,12 @@ Last, I’d recommend getting some tailored advice from [80,000 Hours](https://8
 
 ---
 
-## 3. Finding a Niche {: #section-3 }
+<h3 id="section-3">2. Finding a Niche</h3>
 
 Responsible AI, as a field, is not yet at a level of maturity where career paths are well-defined. The people who work in Responsible AI often carve out niches for themselves and bend the scope of pre-established roles (e.g. product management, consultancy, policy research) in a Responsible AI direction. The point is that you need to be entrepreneurial, although this is liable to change as the field becomes more mature. Here are three pieces of advice for carving out a bespoke career path for yourself within Responsible AI. 
 
-### 3.1. Understand Skill Arbitrage {: #section-3.1 }
+
+<h3.1 id="section-3.1">3.1. Understand Skill Arbitrage</h3.1>
 
 You can greatly increase your value on the job market by acquiring cheap skills in one domain and selling them in another domain where those skills are in short supply and high demand.  
 
@@ -100,7 +100,7 @@ I also want to register that these big-name universities and companies can seem 
 
 ---
 
-## 4. Networking {: #section-4 }
+<h4 id="section-4">4. Networking</h4>
 
 I am autistic and therefore frightened of people. Hence networking is not something that I am particularly good at and not something that I have invested a huge amount of time doing. But I think my aversion to networking has helped me make a stark assessment of the cost-benefit profile of networking with respect to career growth. If I thought it was more important, I would hold my nose and do more of it. But, as it stands, I don’t think it’s that important. What follows are some points which try to unpack and contextualise this assessment. The advice here is specific to research careers in industry and academia and may not generalise to network-heavy career paths like community building, advocacy and ethics consulting.
 
@@ -142,7 +142,7 @@ One related piece of advice is that there’s stuff you can do in the workplace 
 
 ---
 
-## 5. Job Applications {: #section-5 }
+<h5 id="section-5">5.Job Applications</h5>
 
 The process of applying for jobs in Responsible AI is quite mysterious. What looks like a well put together process on the outside may be much more arbitrary than it appears, and hiring managers ought to be understood as ordinary people with flaws and biases. Hiring is not fair. Often it’s disorganised and in some cases the entire process is a front for hiring a pre-selected candidate. I’m sorry that this is the situation. Here are some tips to navigate the process. 
 
@@ -192,7 +192,7 @@ I started the new role in Google Research on Monday 16th January 2023. On Friday
 
 ---
 
-## 6. Getting Promoted {: #section-6 }
+<h6 id="section-5">6.Getting Promoted</h6>
 
 My advice on promotion speaks mostly to industry roles. For context, I joined Google as an L4 Bioethicist on a Trust and Safety ladder and switched to Research Scientist after 18 months. When I became a Research Scientist, I was promoted from Research Scientist (L4) to Senior Research Scientist (L5) within 10 months, and then promoted to Staff Research Scientist (L6) 18 months after that. Hence I ended up as a Staff Research Scientist at age 30, which is rare but not unheard of at a company like Google. It took a while to get a clear sense of what’s involved in promotions, but once I was on the ladder I managed to advance fairly quickly. 
 
@@ -248,7 +248,7 @@ Two further points. First, as your status grows, it becomes necessary to acquire
 
 ---
 
-## 7. Mental Health {: #section-7 }
+<h7 id="section-5">7.Getting Promoted</h7>
 
 My qualitative observation is that Responsible AI folks are not doing well as a collective. There is a lot of anxiety about the future which is quite disheartening. To make matters worse, being a Responsible AI person often feels like it’s antithetical to the move-fast-and-break-things ethos of Silicon Valley which gives you the distinctive sense that you’re someone who’s in the way and not someone who’s contributing to the collective mission of the industry. Worse still, there’s a lack of structure in the field at present which means that everyone is beating-out their own paths. The unstructured environment makes it hard to know whether you’re moving in an optimal direction or whether you’re making the problems that you’re trying to solve worse. 
 
