@@ -64,7 +64,7 @@ Last, I’d recommend getting some tailored advice from [80,000 Hours](https://8
 
 ---
 
-<h2 id="section-3">2. Finding a Niche</h2>
+<h2 id="section-3">3. Finding a Niche</h2>
 
 Responsible AI, as a field, is not yet at a level of maturity where career paths are well-defined. The people who work in Responsible AI often carve out niches for themselves and bend the scope of pre-established roles (e.g. product management, consultancy, policy research) in a Responsible AI direction. The point is that you need to be entrepreneurial, although this is liable to change as the field becomes more mature. Here are three pieces of advice for carving out a bespoke career path for yourself within Responsible AI. 
 
@@ -78,7 +78,7 @@ For example, basically everyone who studies philosophy at the graduate level can
 An important corollary to this point is that you can massively increase your value on the job market by acquiring rare combinations of skills that are in high demand. For example, the set of people who are competent AI policy specialists _and_ competent software engineers is very small. So, if you are an AI policy specialist you can greatly increase your value on the job market by learning to code at least reasonably well. That puts you in a very rare skills bucket and enables you to engage in high-value work like translating policy ideas into engineering practice and interfacing between policy and engineering teams. My general advice in this regard is to pick a base skillset (e.g. policy) and then acquire 1-2 other skills (e.g. ML coding and specialist knowledge of CBRN risks) such that the combination of skills is in high demand and the set of people who share the relevant combination of skills is less than ~10 globally. This strategy requires you to focus on getting bespoke jobs but the payoff in terms of market value is definitely worth it.
 
 
-<h3 id="section-3.2">3.1. Don’t Follow the Crowd, Anticipate It </h3>
+<h3 id="section-3.2">3.2. Don’t Follow the Crowd, Anticipate It </h3>
 
 You ideally want to do good work on topics that are massively significant. Such topics matter in their own right, but are also instrumentally valuable insofar as a lot of useful stuff follows from doing good work on these topics (e.g. funding, citations, job opportunities). Where most people mess up is in chasing trends rather than anticipating them. Fields can very quickly become saturated as everyone rushes to get involved in the next big thing, and running into a saturated field is essentially a career cul-de-sac as the supply of labour exceeds demand. 
 
@@ -104,19 +104,19 @@ I also want to register that these big-name universities and companies can seem 
 
 I am autistic and therefore frightened of people. Hence networking is not something that I am particularly good at and not something that I have invested a huge amount of time doing. But I think my aversion to networking has helped me make a stark assessment of the cost-benefit profile of networking with respect to career growth. If I thought it was more important, I would hold my nose and do more of it. But, as it stands, I don’t think it’s that important. What follows are some points which try to unpack and contextualise this assessment. The advice here is specific to research careers in industry and academia and may not generalise to network-heavy career paths like community building, advocacy and ethics consulting.
 
-<h3 id="section-4.1">4. Everyone Networks</h3>
+<h3 id="section-4.1">4.1. Everyone Networks</h3>
 
 The basic problem with networking is that (almost) everyone is doing it. Here I’m talking about the kind of networking that involves sending cold outreach messages on LinkedIn or staying behind after someone gives a talk to introduce yourself. If you are at Career Level 1 and you want to network with people at Career Level 2, you need to realise that each person at Career Level 2 has almost everyone from Career Level 1 trying to network with them. That makes it extremely difficult for Career Level 1 folks to stand out from the crowd. It is, of course, possible to stand out from the crowd. But what that takes is significant time investment, both in terms of networking to a broader set of people at Career Level 2, but also making sure that the individual networking instances are well-tailored (i.e. you need to research each person who you are trying to network with, know their work inside out, and make a really excellent pitch to them). 
 
 
-<h3 id="section-4.2">4. Opportunity Costs</h3>
+<h3 id="section-4.2">4.2. Opportunity Costs</h3>
 
 Because networking well requires a significant time investment, it carries a massive opportunity cost. Time spent networking is time not spent reading or writing or building stuff. My view is that it’s better to invest the time growing your skills and creating value than it is to invest that same time networking, all else equal. To be sure, the probability of a successful networking instance (i.e. introducing yourself to someone who ends up tangibly benefitting your career) is much higher when you deliver them something of value. For example, you could read a study, adapt it in some novel way, and then email the researcher who led the study about what you did. That’s a tantalising hook, and the kind of thing that might land you an internship. This is a much better way to network than sending out hundreds of non-tailored outreach emails.
 
 It’s also worth noting that networking is not the only way to attract the attention of higher-status people. I’ve found that if you do good work and put it out there (e.g. presenting at conferences and publishing papers), then people will come to you. Here what’s important is that each time you present your work at a conference, you give a presentation that’s so obscenely better delivered and better thought-out than the other presenters that higher-status people can’t help but to network with you. Ditto for writing excellent papers. That’s not to say that the occasional well-targeted email to a high-status person isn’t worth doing. But really the best way to network is to become so valuable that other people want to network with you.
 
 
-<h3 id="section-4.3">4.3 Aim Low</h3>
+<h3 id="section-4.3">4.3. Aim Low</h3>
 
 Despite the above, I think it’s important to keep your eyes peeled for opportunities to engage higher-status people in conversation. For example, at conferences, I think it’s generally a good idea to attend the conference dinner and any drinks associated with the conference. That’s a good way to talk to higher-status people, and even if they don’t give you an amazing career opportunity, they may well give useful career advice or feedback on stuff that you’re working on. 
 
@@ -142,7 +142,7 @@ One related piece of advice is that there’s stuff you can do in the workplace 
 
 ---
 
-<h2 id="section-5">5.Job Applications</h2>
+<h2 id="section-5">5. Job Applications</h2>
 
 The process of applying for jobs in Responsible AI is quite mysterious. What looks like a well put together process on the outside may be much more arbitrary than it appears, and hiring managers ought to be understood as ordinary people with flaws and biases. Hiring is not fair. Often it’s disorganised and in some cases the entire process is a front for hiring a pre-selected candidate. I’m sorry that this is the situation. Here are some tips to navigate the process. 
 
@@ -189,11 +189,11 @@ I started the new role in Google Research on Monday 16th January 2023. On Friday
 
 ---
 
-<h2 id="section-6">6.Getting Promoted</h2>
+<h2 id="section-6">6. Getting Promoted</h2>
 
 My advice on promotion speaks mostly to industry roles. For context, I joined Google as an L4 Bioethicist on a Trust and Safety ladder and switched to Research Scientist after 18 months. When I became a Research Scientist, I was promoted from Research Scientist (L4) to Senior Research Scientist (L5) within 10 months, and then promoted to Staff Research Scientist (L6) 18 months after that. Hence I ended up as a Staff Research Scientist at age 30, which is rare but not unheard of at a company like Google. It took a while to get a clear sense of what’s involved in promotions, but once I was on the ladder I managed to advance fairly quickly. 
 
-<h3 id="section-6.1">6.Getting Promoted</h3>
+<h3 id="section-6.1">6.1. Impact</h3>
 
 People always say that to get promoted you need to have impact. What makes this guidance unhelpful is that ‘impact’ is a thin concept. It’s a bit like telling someone in the midst of a moral dilemma to do the right thing. Obviously, they should do the right thing. But ‘rightness’ is too thin as a concept to guide action. Making sense of impact in Responsible AI is more complicated still because many Responsible AI roles are focused on stopping bad things from happening, and it’s difficult to evidence subjunctive conditionals in a promo packet (e.g. ‘were I to have acted differently, some bad thing would have happened'). Furthermore, even if you achieve a positive outcome rather than preventing a negative outcome, the outcome variables with which we are concerned in Responsible AI can be rather elusive and hard to measure (e.g. fairness). 
 
@@ -245,7 +245,7 @@ Two further points. First, as your status grows, it becomes necessary to acquire
 
 ---
 
-<h2 id="section-7">7.Getting Promoted</h2>
+<h2 id="section-7">7. Mental Health</h2>
 
 My qualitative observation is that Responsible AI folks are not doing well as a collective. There is a lot of anxiety about the future which is quite disheartening. To make matters worse, being a Responsible AI person often feels like it’s antithetical to the move-fast-and-break-things ethos of Silicon Valley which gives you the distinctive sense that you’re someone who’s in the way and not someone who’s contributing to the collective mission of the industry. Worse still, there’s a lack of structure in the field at present which means that everyone is beating-out their own paths. The unstructured environment makes it hard to know whether you’re moving in an optimal direction or whether you’re making the problems that you’re trying to solve worse. 
 
