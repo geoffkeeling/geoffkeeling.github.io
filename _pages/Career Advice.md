@@ -193,7 +193,7 @@ I started the new role in Google Research on Monday 16th January 2023. On Friday
 
 <h2 id="section-6">6. Getting Promoted</h2>
 
-My advice on promotion speaks mostly to industry roles. For context, I joined Google as an L4 Bioethicist on a Trust and Safety ladder and switched to Research Scientist after 18 months. When I became a Research Scientist, I was promoted from Research Scientist (L4) to Senior Research Scientist (L5) within 10 months, and then promoted to Staff Research Scientist (L6) 18 months after that. Hence I ended up as a Staff Research Scientist at age 30, which is rare but not unheard of at a company like Google. It took a while to get a clear sense of what’s involved in promotions, but once I was on the ladder I managed to advance fairly quickly. 
+My advice on promotion speaks mostly to industry roles. For context, I joined Google as an L4 Bioethicist on a Trust and Safety ladder and switched to Research Scientist after 18 months. When I became a Research Scientist, I was promoted from Research Scientist (L4) to Senior Research Scientist (L5) within 10 months, and then promoted to Staff Research Scientist (L6) 18 months after that. Hence I ended up as a Staff Research Scientist at age 30, which is rare but not unheard of at a company like Google. It took a while to get a clear sense of what’s involved in promotions, but once I was on the right ladder I managed to advance fairly quickly. 
 
 
 <h3 id="section-6.1">6.1. Impact</h3>
