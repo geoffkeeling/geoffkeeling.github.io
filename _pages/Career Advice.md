@@ -7,6 +7,8 @@ author_profile: true
 
 People often ask me how to build a career in Responsible AI. Here is the best advice I have to offer. The people who will find this advice most useful are those who want to emulate a career like mine, starting out in academic philosophy and then transitioning to a bespoke industry research scientist position. But several of the core principles are generalisable to other Responsible AI career paths.
 
+---
+
 **Table of Contents**
 * [1. Caveats](#section-1)
 * [2. First Steps](#section-2)
@@ -32,7 +34,7 @@ People often ask me how to build a career in Responsible AI. Here is the best ad
   * [6.3. Sponsors](#section-6.3)
 * [7. Mental Health](#section-7)
 
-
+---
 
 <h1 id="section-1">1. Caveats</h1>
 
