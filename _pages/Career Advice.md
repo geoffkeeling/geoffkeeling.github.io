@@ -28,15 +28,25 @@ Placeholder text for Section 2. Here, we will discuss the importance of networki
 
 ---
 
-## Section 3 {: #section-3 }
+## Finding a Niche {: #section-3 }
 Placeholder text for Section 3. This part focuses on academic paths versus industry roles, detailing the pros and cons of each and how to tailor your application. We will explore the differences in research focus, work-life balance, and impact between a university setting and a corporate lab.
 
 ---
 
-## Section 4 {: #section-4 }
+## Networking {: #section-4 }
 Placeholder text for Section 4. We'll explore skill development, including technical skills that complement a background in philosophy or social sciences. Gaining a basic understanding of machine learning principles or coding can significantly strengthen your profile and research capabilities.
 
 ---
 
-## Section 5 {: #section-5 }
+## Job Applications {: #section-5 }
+Placeholder text for Section 5. Finally, this section offers advice on navigating the job market, from crafting your CV to preparing for interviews. We will cover common interview questions and strategies for effectively communicating your research and experience to potential employers.
+
+---
+
+## Getting Promoted {: #section-6 }
+Placeholder text for Section 5. Finally, this section offers advice on navigating the job market, from crafting your CV to preparing for interviews. We will cover common interview questions and strategies for effectively communicating your research and experience to potential employers.
+
+---
+
+## Mental Health {: #section-7 }
 Placeholder text for Section 5. Finally, this section offers advice on navigating the job market, from crafting your CV to preparing for interviews. We will cover common interview questions and strategies for effectively communicating your research and experience to potential employers.
