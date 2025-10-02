@@ -1,6 +1,7 @@
 # main links links
 main:
-   
+   - title: "Careers Advice"
+    url: /careers-advice/
   #- title: "CV"
    # url: /cv/
    
