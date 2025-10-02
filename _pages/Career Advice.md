@@ -11,6 +11,9 @@ I have benefitted from some great career advice and nowadays people often ask me
 * [1. Caveats](#section-1)
 * [2. First Steps](#section-2)
 * [3. Finding a Niche](#section-3)
+  * [3.1. Understand Skill Arbitrage](#section-3.1)
+  * [3.1. Don’t Follow the Crowd, Anticipate It](#section-3.2)
+  * [3.1. Leverage Branding](#section-3.3)
 * [4. Networking](#section-4)
 * [5. Job Applications](#section-5)
 * [6. Getting Promoted](#section-6)
@@ -54,7 +57,7 @@ Last, I’d recommend getting some advice from [80,000 Hours](https://80000hours
 
 Responsible AI, as a field, is not yet at a level of maturity where career paths are well-defined. The people who work in Responsible AI often carve out niches for themselves and bend the scope of pre-established roles (e.g. product management, consultancy, policy research) in a Responsible AI direction. The point is that you need to be entrepreneurial in planning out a career, although this is liable to change as the field becomes more mature. Here are three pieces of advice for carving out a bespoke career path for yourself within Responsible AI. 
 
-### 3.1. Understand Skill Arbitrage  
+### 3.1. Understand Skill Arbitrage {: #section-3.1 }
 
 You can greatly increase your value on the job market by acquiring cheap skills in one domain and selling them in another domain where those skills are in short supply and high demand.  
 
@@ -63,7 +66,7 @@ For example, basically everyone who studies philosophy at the graduate level can
 An important corollary to this point is that you can massively increase your value on the job market by acquiring rare combinations of skills that are in high demand. For example, the set of people who are competent AI policy specialists and competent software engineers is very small. So, if you are an AI policy specialist you can greatly increase your value on the job market by learning to code at least reasonably well. That puts you in a very rare skills bucket and enables you to engage in high-value work like translating policy ideas into engineering practice and interfacing between policy and engineering teams. My general advice in this regard is to pick a base skillset (e.g. policy) and then acquire 1-2 other skillsets (e.g. coding, specialist knowledge of CBRN risks) such that the combination of skillsets is in high demand and the set of people who share the relevant combination of skills is less than ~10 globally. This strategy requires you to focus on getting bespoke jobs but the payoff in terms of market value is definitely worth it.
 
 
-### 3.2. Don’t Follow the Crowd, Anticipate It
+### 3.2. Don’t Follow the Crowd, Anticipate It {: #section-3.2 }
 
 You ideally want to do good work on topics that are massively significant, as a lot of good stuff follows from doing good work on such a topic (e.g. funding, citations, job opportunities). Where most people mess up is in chasing trends rather than anticipating them. Fields can very quickly become saturated as everyone rushes to get involved in the next big thing, and running into a saturated field is essentially a career cul-de-sac as the supply of labour exceeds demand. 
 
@@ -74,7 +77,7 @@ My mental model here is one of making exponential progress by stacking diminishi
 There’s also obviously an element of risk here. Even good forecasters can badly misjudge the direction that things will go in. Three points in response: First, as with investing, diversification is important. You don’t have to go all in on any particular area. In my own career, I’ve invested heavily in some high-risk high-reward areas (e.g. AI welfare), but I’ve done that alongside substantial investment in much safer bets (e.g. ML fairness, ethics of AI agents). I believe that AI welfare will be a massively important public conversation. But I could be mistaken, and if I am, I have maintained active participation in other more conventional literatures that I can lean back into if needed. Second, don’t underestimate your agency in making big things happen. For example, whether or not a literature that you’re contributing to becomes a big deal is in large part within your control. Doing great work will attract great people. Third, with the exception of frontier ML work (in which forecasts are typically based on extrapolating empirical regularities that may or may not continue to hold indefinitely), academic forecasting in Responsible AI is essentially a matter of information arbitrage because most fields lag behind the technological frontier. There is, for example, a 1-3 year time lag between a particular ML development and philosophers starting to discuss that development in the literature, so simply being ahead of the curve with respect to the philosophers and on the curve with respect to ML is usually sufficient. But this time-lag is probably shrinking and will continue to do so as the AI boom continues.
 
 
-### 3.3. Understand Branding
+### 3.3. Leverage Branding {: #section-3.2 }
 
 Did I mention that I went to Stanford? I appreciate that this sounds like extremely crass advice, but it is the case that being affiliated with prestigious universities and companies makes a huge difference to your career. I first started thinking about this point when I was doing my PhD at Bristol. For context, Bristol is a good university in the UK, but it is not Oxford or Cambridge. I noticed that the placement record for Bristol’s PhD programme (that is, a list of the places that PhD graduates from the relevant department end up getting jobs) was not great. Many people did not get jobs and those that did get jobs typically ended up at comparable and often lower ranked universities than Bristol. I realised that I needed to get myself in a better reference class before hitting the job market and it seemed like the easiest way to do this was to get a better university affiliation. So, I applied to a research assistant position at the Leverhulme Centre for the Future of Intelligence at the University of Cambridge and worked extremely hard to ensure that I got the position. (That is, I prepped for interviews like my life depended on it.) Fortunately, I got the job and was able to apply to postdocs at Stanford and Oxford with a dual affiliation.
 
