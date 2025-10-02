@@ -5,7 +5,7 @@ excerpt: "Advice for students and early-career researchers interested in AI ethi
 author_profile: true
 ---
 
-I have benefitted from some great career advice. Nowadays people often ask me how to make a career in Responsible AI and adjacent fields. Here is the best advice I have to offer. It’s frank and to the point. But that’s the kind of advice I find most helpful. The advice is tailored mostly to industry and academic research roles but some core principles are generalisable. The people who will find this advice most useful are those who want to emulate a career like mine, starting out in academia and then transitioning to an industry research scientist position. 
+I have benefitted from some great career advice. Nowadays people often ask me how to make a career in Responsible AI. Here is the best advice I have to offer. It’s frank and to the point. But that’s the kind of advice I find most helpful. The advice is tailored mostly to industry and academic research roles but some core principles are generalisable. The people who will find this advice most useful are those who want to emulate a career like mine, starting out in academia and then transitioning to an industry research scientist position. 
 
 **Table of Contents**
 * [1. Caveats](#section-1)
