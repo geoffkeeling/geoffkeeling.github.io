@@ -34,7 +34,7 @@ People often ask me how to build a career in Responsible AI. Here is the best ad
 
 ---
 
-## 1. Caveats {: #section-1 }
+<h2 id="section-2">2. Caveats</h2>
 
 Take this advice with a grain of salt. For anything that you want to achieve, the best advice on how to achieve that thing will come from people who have achieved that thing countless times. For example, if you want to make a chair, you should probably get advice from a carpenter who has made chairs countless times. Such a carpenter is likely to have a good causal model of how input variables in the construction of chairs relate to the relevant outcome variables. Landing a dream job is a rare event for most people. Hence most people have pretty naff causal models of how to land dream jobs and massively underweight the role of circumstance and sheer luck. I think the best careers advice comes from experienced hiring managers, recruiters, bar raisers, and the like. They have seen it all from the other side of the table and have great causal models with respect to the features of applications and candidates that are conducive to success. In this regard there are many people who are better qualified to give careers advice than I am.
 
