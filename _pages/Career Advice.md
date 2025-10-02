@@ -5,7 +5,7 @@ excerpt: "Advice for students and early-career researchers interested in AI ethi
 author_profile: true
 ---
 
-I have benefitted from some great career advice and nowadays people often ask me about how to make a career in Responsible AI. Here are some ideas. The people who will find this advice most useful are those who want to emulate a career roughly like mine, starting out in academic philosophy and then transitioning to an ethics consulting role or a research scientist position in industry. But several of the principles are generalisable to other Responsible AI career paths.
+I have benefitted from some great career advice and nowadays people often ask me about how to build a career in Responsible AI. Here are some ideas. The people who will find this advice most useful are those who want to emulate a career roughly like mine, starting out in academic philosophy and then transitioning to an ethics consulting role or a research scientist position in industry. But several of the principles are generalisable to other Responsible AI career paths.
 
 ---
 
