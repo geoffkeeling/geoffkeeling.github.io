@@ -100,7 +100,7 @@ I also want to register that these big-name universities and companies can seem 
 
 <h2 id="section-4">4. Networking</h2>
 
-I am autistic and therefore frightened of people. Hence networking is not something that I am particularly good at and not something that I have invested a huge amount of time doing. But I think my aversion to networking has helped me make a stark assessment of the cost-benefit profile of networking with respect to career growth. If I thought it was more important, I would hold my nose and do more of it. But, as it stands, I don’t think it’s that important. What follows are some points which try to unpack and contextualise this assessment. The advice here is specific to research careers in industry and academia and may not generalise to network-heavy career paths like community building, advocacy and ethics consulting.
+I am autistic and therefore frightened of people. Hence networking is not something that I am particularly good at and not something that I have invested a huge amount of time doing. But I think my aversion to networking has helped me make a stark assessment of the cost-benefit profile of networking with respect to career growth. The advice here is specific to research careers in industry and academia and may not generalise to network-heavy career paths like community building, advocacy and ethics consulting.
 
 
 <h3 id="section-4.1">4.1. Everyone Networks</h3>
