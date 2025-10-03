@@ -66,7 +66,7 @@ Last, I’d recommend getting some tailored advice from [80,000 Hours](https://8
 
 <h2 id="section-3">3. Finding a Niche</h2>
 
-Responsible AI, as a field, is not yet at a level of maturity where career paths are well-defined. The people who work in Responsible AI often carve out niches for themselves and bend the scope of pre-established roles (e.g. product management, consultancy, policy research) in a Responsible AI direction. The point is that you need to be entrepreneurial, although this is liable to change as the field becomes more mature. Here are three pieces of advice for carving out a bespoke career path for yourself within Responsible AI. 
+Responsible AI, as a field, is not yet at a level of maturity where career paths are well-defined. The people who work in Responsible AI often carve out niches for themselves and bend the scope of pre-established roles in a Responsible AI direction. The point is that you need to be entrepreneurial, although this is liable to change as the field becomes more mature. Here are three pieces of advice for carving out a bespoke career path for yourself within Responsible AI. 
 
 
 <h3 id="section-3.1">3.1. Understand Skill Arbitrage</h3>
