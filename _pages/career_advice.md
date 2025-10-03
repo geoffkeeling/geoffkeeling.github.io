@@ -1,6 +1,6 @@
 ---
 permalink: /careers-advice/
-title: "Careers Advice"
+title: "Career Advice"
 excerpt: "Advice for students and early-career researchers interested in AI ethics and governance."
 author_profile: true
 ---
