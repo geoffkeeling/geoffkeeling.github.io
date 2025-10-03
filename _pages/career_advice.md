@@ -1,5 +1,5 @@
 ---
-permalink: /careers-advice/
+permalink: /career-advice/
 title: "Career Advice"
 excerpt: "Advice for students and early-career researchers interested in AI ethics and governance."
 author_profile: true
