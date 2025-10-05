@@ -7,6 +7,8 @@ author_profile: true
 
 I have benefitted from some great career advice and nowadays people often ask me about how to build a career in Responsible AI. Here are some ideas. The people who will find this advice most useful are those who want to emulate a career roughly like mine, starting out in academic philosophy and then transitioning to an ethics consulting role or research scientist position in industry. But several of the principles are generalisable to other Responsible AI career paths.
 
+N.B. Written in a personal cpacity. Views are my own.
+
 ---
 
 **Table of Contents**
