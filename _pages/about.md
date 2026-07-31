@@ -21,7 +21,7 @@ Philosopher working on the ethics and cognitive science of AI. Interests include
 
 Prior to Google, I was a postdoc at Stanford University under [Rob Reich](https://en.wikipedia.org/wiki/Rob_Reich){:target="_blank" rel="noopener noreferrer"}. Before that, I did my PhD in Philosophy at the University of Bristol with [Richard Pettigrew](https://richardpettigrew.com/){:target="_blank" rel="noopener noreferrer"} and [Brad Hooker](https://en.wikipedia.org/wiki/Brad_Hooker){:target="_blank" rel="noopener noreferrer"}. 
 
-[Here](https://geoffkeeling.github.io/files/CV.pdf) is my CV.
+[Here](https://geoffkeeling.github.io/CV.pdf) is my CV.
 
 ![GeoffKeeling](https://geoffkeeling.github.io/images/bio-photo.jpg)
 
