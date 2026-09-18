@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Staff Research Scientist and Philosopher, Google; Associate Fellow, Leverhulme Centre for the Future of Intelligence, University of Cambridge; Fellow, Institute of Philosophy, University of London**
+**Staff Research Scientist and Philosopher, Google; Associate Fellow, Leverhulme Centre for the Future of Intelligence, University of Cambridge; Fellow, Institute of Philosophy, School of Advanced Study, University of London**
 
 Philosopher working on [alignment](https://link.springer.com/article/10.1007/s11098-025-02300-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250330&utm_content=10.1007/s11098-025-02300-4){:target="_blank" rel="noopener noreferrer"}, [digital](https://arxiv.org/pdf/2506.13403){:target="_blank" rel="noopener noreferrer"} [minds](https://www.tandfonline.com/doi/abs/10.1080/0020174X.2025.2450598){:target="_blank" rel="noopener noreferrer"}, [social](https://arxiv.org/pdf/2607.11363){:target="_blank" rel="noopener noreferrer"} [cognition](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1633272/full){:target="_blank" rel="noopener noreferrer"} and [human-AI](https://ojs.aaai.org/index.php/AIES/article/view/31694){:target="_blank" rel="noopener noreferrer"} [relationships](https://www.nature.com/articles/s44387-025-00041-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251105&utm_content=10.1038/s44387-025-00041-7){:target="_blank" rel="noopener noreferrer"}. Some highlights:
 
