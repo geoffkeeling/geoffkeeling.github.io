@@ -7,22 +7,35 @@
   <meta name="description" content="Academic website of Geoff Keeling" />
   <link rel="stylesheet" href="style.css" />
   <style>
-    .contact-links {
+    .contact-row {
       list-style: none;
-      padding-left: 0;
-      margin-top: 0.75rem;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      margin-top: 1rem;
     }
-    .contact-links li {
+    .contact-row a {
       display: flex;
       align-items: center;
-      gap: 0.6rem;
-      margin-bottom: 0.5rem;
+      gap: 0.5rem;
+      text-decoration: none;
+      color: var(--body-color);
     }
-    .contact-links svg {
-      width: 1.15rem;
-      height: 1.15rem;
-      flex-shrink: 0;
-      fill: currentColor;
+    .contact-icon {
+      width: 1.2em;
+      height: 1.2em;
+    }
+    .latex-dark img.contact-icon {
+      filter: invert(1);
+    }
+    @media (prefers-color-scheme: dark) {
+      .latex-dark-auto img.contact-icon {
+        filter: invert(1);
+      }
+    }
+    .contact-row a:hover .contact-icon {
+      opacity: 0.7;
     }
   </style>
 </head>
@@ -68,26 +81,30 @@
       </p>
 
       <h2 id="contact">Contact</h2>
-      <ul class="contact-links">
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/>
-          </svg>
-          <a href="mailto:geoffkeelingbhyat@gmail.com">geoffkeelingbhyat@gmail.com</a>
-        </li>
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/>
-          </svg>
-          <a href="https://www.linkedin.com/in/geoff-keeling/">LinkedIn</a>
-        </li>
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3 1 9l11 6 9-4.91V17h2V9L12 3z"/>
-          </svg>
-          <a href="https://scholar.google.com/citations?user=_k8b6mYAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a>
-        </li>
-      </ul>
+      <div id="contact-list">
+        <ul class="contact-row">
+          <li>
+            <a href="mailto:geoffkeelingbhyat@gmail.com">
+              <img src="https://cdn.simpleicons.org/gmail/000000" alt="Email icon" class="contact-icon" />
+              <span>Email</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/geoff-keeling/">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="contact-icon" aria-hidden="true">
+                <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+              </svg>
+              <span>LinkedIn</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://scholar.google.com/citations?user=_k8b6mYAAAAJ&amp;hl=en&amp;oi=ao">
+              <img src="https://cdn.simpleicons.org/googlescholar/000000" alt="Google Scholar icon" class="contact-icon" />
+              <span>Google Scholar</span>
+            </a>
+          </li>
+        </ul>
+      </div>
     </article>
   </main>
 
