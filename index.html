@@ -7,6 +7,23 @@
   <meta name="description" content="Academic website of Geoff Keeling" />
   <link rel="stylesheet" href="style.css" />
   <style>
+    .photo-figure {
+      margin: 1.5rem 0;
+    }
+    .photo-figure img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto;
+    }
+    .photo-figure figcaption {
+      font-size: 0.85rem;
+      line-height: 1.45;
+      margin-top: 0.65rem;
+      text-align: left;
+      color: var(--body-color);
+      opacity: 0.9;
+    }
     .contact-row {
       list-style: none;
       padding: 0;
@@ -81,8 +98,12 @@
       <p>
         Here is me standing in a line with several philosophers. To summon us, shout ‘Philosophers of AI, assemble!’ It won’t work unless you really mean it.
       </p>
-      <figure>
-        <img src="philosophers.jpg" alt="Geoff Keeling standing in a line with several philosophers" style="max-width: 100%; height: auto;" />
+      <figure class="photo-figure">
+        <!-- Keep .jpg or change to .jpeg below if your uploaded file uses .jpeg -->
+        <img src="philosophers.jpg" alt="Geoff Keeling standing in a line with several philosophers" />
+        <figcaption>
+          LTR: Herman Cappelen, Murray Shanahan, John Hawthorne, Simon Goldstein, Daniel Herrmann, Geoff Keeling, Winnie Street, Paul Boghossian and Henry Shevlin.
+        </figcaption>
       </figure>
 
       <h2 id="contact">Contact</h2>
