@@ -6,6 +6,25 @@
   <title>Geoff Keeling — Academic Website</title>
   <meta name="description" content="Academic website of Geoff Keeling" />
   <link rel="stylesheet" href="style.css" />
+  <style>
+    .contact-links {
+      list-style: none;
+      padding-left: 0;
+      margin-top: 0.75rem;
+    }
+    .contact-links li {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.5rem;
+    }
+    .contact-links svg {
+      width: 1.15rem;
+      height: 1.15rem;
+      flex-shrink: 0;
+      fill: currentColor;
+    }
+  </style>
 </head>
 <body id="top" class="text-justify">
   <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle dark mode">◐</button>
@@ -13,14 +32,14 @@
   <header>
     <h1>Dr Geoff Keeling</h1>
     <p class="author">
-      Staff Research Scientist, Google DeepMind
+      Staff Research Scientist, DeepMind Institute, Google DeepMind
     </p>
   </header>
 
   <div class="abstract">
     <h2>Abstract</h2>
     <p>
-      I’m a Staff Research Scientist at Google DeepMind. I’m also a Fellow at the Institute of Philosophy in the School of Advanced Study, University of London, and an Associate Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Prior to Google, I was a postdoc at Stanford University under <a href="https://en.wikipedia.org/wiki/Rob_Reich">Rob Reich</a>, and before that I did a PhD in philosophy at the University of Bristol with <a href="https://richardpettigrew.github.io/">Richard Pettigrew</a> and <a href="https://en.wikipedia.org/wiki/Brad_Hooker">Brad Hooker</a>.
+      I’m a Staff Research Scientist and philosopher at Google DeepMind. I’m also a Fellow at the Institute of Philosophy in the School of Advanced Study, University of London, and an Associate Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Prior to Google, I was a postdoc at Stanford University under <a href="https://en.wikipedia.org/wiki/Rob_Reich">Rob Reich</a>, and before that I did a PhD in philosophy at the University of Bristol with <a href="https://richardpettigrew.github.io/">Richard Pettigrew</a> and <a href="https://en.wikipedia.org/wiki/Brad_Hooker">Brad Hooker</a>.
     </p>
   </div>
 
@@ -31,10 +50,10 @@
         I work on AI alignment, social cognition, consciousness and moral standing. Here’s some questions I’ve been thinking about:
       </p>
       <ul>
-        <li>Does making a language model believe that it’s conscious make it more humanlike in other respects?</li>
-        <li>Should we think of artificial minds as being intrinsic to language models, or could artificial minds exist as emergent phenomena within conversations?</li>
-        <li>Do things matter morally because they have properties like agency and consciousness or because of the social relationships in which they stand?</li>
-        <li>What does it mean to align AI systems with human values given that humans reasonably and massively disagree about what matters morally?</li>
+        <li>Does making a <a href="https://arxiv.org/pdf/2607.28607">language model</a> believe that it’s conscious make it more humanlike in other respects?</li>
+        <li>Should we think of <a href="https://www.ingentaconnect.com/content/imp/jcs/2026/00000033/f0020007/art00006">artificial minds</a> as being intrinsic to language models, or could artificial minds exist as emergent phenomena within conversations?</li>
+        <li>Do things <a href="https://philpapers.org/archive/KEESBB.pdf">matter morally</a> because they have properties like agency and consciousness or because of the social relationships in which they stand?</li>
+        <li>What does it mean to align AI systems with <a href="https://link.springer.com/article/10.1007/s11098-025-02300-4">human values</a> given that humans reasonably and massively disagree about what matters morally?</li>
       </ul>
 
       <h2 id="book">Book</h2>
@@ -49,14 +68,29 @@
       </p>
 
       <h2 id="contact">Contact</h2>
-      <div id="contact-list">
-        <p>Loading contact info...</p>
-      </div>
+      <ul class="contact-links">
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/>
+          </svg>
+          <a href="mailto:geoffkeelingbhyat@gmail.com">geoffkeelingbhyat@gmail.com</a>
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/>
+          </svg>
+          <a href="https://www.linkedin.com/in/geoff-keeling/">LinkedIn</a>
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3 1 9l11 6 9-4.91V17h2V9L12 3z"/>
+          </svg>
+          <a href="https://scholar.google.com/citations?user=_k8b6mYAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a>
+        </li>
+      </ul>
     </article>
   </main>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.14.1/js-yaml.min.js"></script>
-  <script src="contact-loader.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       const toggle = document.querySelector('#dark-mode-toggle');
