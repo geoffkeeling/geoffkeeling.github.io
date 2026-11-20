@@ -1,204 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Florian Jonas — Academic Website</title>
-  <meta name="description" content="Academic website of Florian Jonas" />
-
-  <!-- Favicon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-
+  <title>Geoff Keeling — Academic Website</title>
+  <meta name="description" content="Academic website of Geoff Keeling" />
   <link rel="stylesheet" href="style.css" />
-  <link rel="stylesheet" href="prism/prism.css" />
 </head>
-
 <body id="top" class="text-justify">
   <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle dark mode">◐</button>
+
   <header>
     <h1>Dr Geoff Keeling</h1>
     <p class="author">
-      Staff Research Scientist, Google DeepMind <br />
+      Staff Research Scientist, Google DeepMind
     </p>
   </header>
 
   <div class="abstract">
     <h2>Abstract</h2>
     <p>
-      Hello I am Florian Jonas, a particle physicist stationed at <a href="https://home.web.cern.ch/">CERN</a>, Switzerland. I am currently a research fellow at CERN in the EP department. I did my PhD research with the <a href="https://www.uni-muenster.de/Physik.KP/AGAndronic/en/ag/andronic.shtml">University of Münster</a>, Germany in collaboration with the <a href="https://www.ornl.gov/">Oak Ridge National Laboratory</a>, followed by a Postdoctoral Scholarship at the <a href="https://www.berkeley.edu">University of California Berkeley</a> and affiliate at the <a href="https://www.lbl.gov">Lawrence Berkeley National Laboratory</a>. On this website you can find more information about my research, recent publications and talks.
-      If you have any questions or would like to get in touch, please feel free to <a href="#contact">visit the contact section below</a>.
+      I’m a Staff Research Scientist at Google DeepMind. I’m also a Fellow at the Institute of Philosophy in the School of Advanced Study, University of London, and an Associate Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Prior to Google, I was a postdoc at Stanford University under <a href="https://en.wikipedia.org/wiki/Rob_Reich">Rob Reich</a>, and before that I did a PhD in philosophy at the University of Bristol with <a href="https://richardpettigrew.github.io/">Richard Pettigrew</a> and <a href="https://en.wikipedia.org/wiki/Brad_Hooker">Brad Hooker</a>.
     </p>
   </div>
-
-  <nav role="navigation" class="toc" id="toc">
-    <h2>Contents</h2>
-    <ol>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#talks">Talks</a></li>
-      <li><a href="#cv">CV</a></li>
-      <li><a href="#acknowledgements">Acknowledgements</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ol>
-  </nav>
 
   <main>
     <article>
       <h2 id="research">Research</h2>
       <p>
-        I am a physicist working on the <a href="https://alice-collaboration.web.cern.ch/">ALICE experiment</a> at the <a href="https://home.cern/science/accelerators/large-hadron-collider">Large Hadron Collider (LHC)</a>. My main research interests include:
+        I work on AI alignment, social cognition, consciousness and moral standing. Here’s some questions I’ve been thinking about:
       </p>
       <ul>
-        <li><strong>Prompt Photons:</strong> Using isolated photons to probe the gluon density in protons and nuclei (gluon saturation) and to test perturbative QCD.</li>
-        <li><strong>Calorimetry:</strong> R&D and performance studies for the ALICE Forward Calorimeter (FoCal), operation of the ALICE Electromagnetic Calorimeter (EMCal) as deputy system runcoordinator</li>
-        <li><strong>Jets:</strong> Measuring jets and their correlations with photons to study energy loss in the Quark-Gluon Plasma (QGP)</li>
-        <li><strong>Phenomenology:</strong> I always had a passion for phenomenology. Currently I am doing various phenomenological studies related to cold nuclear matter effects and the Quark-Gluon Plasma (QGP), as well as for the future FCC-ee collider.</li>
+        <li>Does making a language model believe that it’s conscious make it more humanlike in other respects?</li>
+        <li>Should we think of artificial minds as being intrinsic to language models, or could artificial minds exist as emergent phenomena within conversations?</li>
+        <li>Do things matter morally because they have properties like agency and consciousness or because of the social relationships in which they stand?</li>
+        <li>What does it mean to align AI systems with human values given that humans reasonably and massively disagree about what matters morally?</li>
       </ul>
 
-      <h2 id="publications">Publications</h2>
-      <p>Selected publications with significant contributions in chronological order. Citation counts and journal references are pulled from <a href="https://inspirehep.net">INSPIRE-HEP</a>
-      </p>
-      <br>
-      
-      <!-- The content of this list is loaded dynamically from papers.md via INSPIRE-HEP API -->
-      <ol class="bib" id="paper-list">
-        <li>Loading publications...</li>
-      </ol>
-
-      <h2 id="talks">Talks</h2>
-      <p>Selected talks and posters in chronological order.</p>
-      <br>
-      <!-- The content of this list is loaded dynamically from talk.bib -->
-      <ol class="bib" id="talk-list">
-        <li>Loading talks...</li>
-      </ol>
-
       <h2 id="cv">Curriculum Vitae</h2>
-      <div id="cv-content">
-        <p>Loading CV...</p>
-      </div>
-
-      <h2 id="acknowledgements">Acknowledgements</h2>
       <p>
-        This website is based on the <a href="https://github.com/vincentdoerig/latex-css">latex-css</a> project by Vincent Dörig. I have heavily modified itto include things I need, such as a moving sidebar, inspire-hep pulling for abstract and journal information for the publications, as well as the abstract display in the sidebar. I thank INSPIRE-HEP for making their <a href="https://github.com/inspirehep/rest-api-doc">REST API</a> publicly available. As I am a physicist and not a web developer, this would not have been possible without the help of LLMs, in particular Google Gemini 3 Pro.
-        The source code for this website is freely available on <a href="https://github.com/fjonasALICE/latex-css">GitHub</a> under the <a href="https://github.com/fjonasALICE/latex-css/blob/main/LICENSE"></a>MIT license</a>.
+        <!-- Replace "#" below with your CV filename or URL, e.g. href="cv.pdf" -->
+        Here is a <a href="#">link to my CV</a>.
       </p>
 
       <h2 id="contact">Contact</h2>
-      <div id="contact-list">
-        <p>Loading contact info...</p>
-      </div>
-
+      <p>
+        <strong>Email:</strong> <a href="mailto:geoffkeelingbhyat@gmail.com">geoffkeelingbhyat@gmail.com</a><br />
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/geoff-keeling/">linkedin.com/in/geoff-keeling</a><br />
+        <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=_k8b6mYAAAAJ&amp;hl=en&amp;oi=ao">Geoff Keeling</a>
+      </p>
     </article>
   </main>
 
-  <!-- Floating Sidebar for Desktop -->
-  <nav class="toc-sidebar">
-    <ul>
-      <li><a href="#toc">Contents</a></li>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#talks">Talks</a></li>
-      <li><a href="#cv">CV</a></li>
-      <li><a href="#acknowledgements">Acknowledgements</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-
-  <!-- Back to Top Button for Mobile -->
-  <a href="#toc" class="back-to-top" aria-label="Back to Table of Contents">↑ Contents</a>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.14.1/js-yaml.min.js"></script>
-  <script src="bib-loader.js?v=3"></script>
-  <script src="cv-loader.js"></script>
-  <script src="contact-loader.js"></script>
-
-  <script>
-    MathJax = {
-      tex: {
-        inlineMath: [['$', '$'],],
-      },
-    }
-  </script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  <script async src="prism/prism.js"></script>
-
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      const toc = document.getElementById('toc');
-      const sidebar = document.querySelector('.toc-sidebar');
-      const backToTop = document.querySelector('.back-to-top');
-
-      if (toc && (sidebar || backToTop)) {
-        let ticking = false;
-
-        const updateOpacity = () => {
-          const rect = toc.getBoundingClientRect();
-          // We want the fade to start when the bottom of the TOC is still visible.
-          // Let's say we start fading in when the bottom of the TOC is 300px from the top.
-          // And we are fully faded in when the bottom of the TOC is -100px from the top (fully scrolled past).
-          
-          const fadeStart = 300; 
-          const fadeEnd = -100;
-          const range = fadeStart - fadeEnd; // 400px fade distance
-          
-          // rect.bottom decreases as we scroll down.
-          // current position within range:
-          // if rect.bottom > fadeStart => opacity 0
-          // if rect.bottom < fadeEnd => opacity 1
-          
-          let opacity = 0;
-          if (rect.bottom < fadeEnd) {
-            opacity = 1;
-          } else if (rect.bottom > fadeStart) {
-            opacity = 0;
-          } else {
-            // Linear interpolation
-            opacity = 1 - (rect.bottom - fadeEnd) / range;
-          }
-          
-          if (sidebar) {
-            sidebar.style.opacity = opacity;
-            sidebar.style.pointerEvents = opacity > 0.1 ? 'auto' : 'none';
-          }
-          if (backToTop) {
-            // max opacity for backToTop was 0.7 normally, but let's go to 0.7 to match previous style, or 1?
-            // User might want it fully visible. Previous CSS had .visible { opacity: 0.7; }
-            // Let's make it 0.8 for better visibility but not full black.
-            const maxOpacity = 0.8;
-            backToTop.style.opacity = opacity * maxOpacity;
-            backToTop.style.pointerEvents = opacity > 0.1 ? 'auto' : 'none';
-          }
-          
-          ticking = false;
-        };
-
-        window.addEventListener('scroll', () => {
-          if (!ticking) {
-            window.requestAnimationFrame(updateOpacity);
-            ticking = true;
-          }
-        });
-        
-        // Initial check
-        updateOpacity();
-      }
-      
-      const toggle = document.querySelector("#dark-mode-toggle");
+      const toggle = document.querySelector('#dark-mode-toggle');
       if (toggle) {
-          toggle.addEventListener('click', () => {
-             document.body.classList.toggle("latex-dark");
-          });
+        toggle.addEventListener('click', () => {
+          document.body.classList.toggle('latex-dark');
+        });
       }
     });
   </script>
-
-  <!-- 100% privacy-first analytics -->
-  <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 </body>
-
 </html>
