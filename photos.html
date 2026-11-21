@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Photos — Geoff Keeling</title>
+  <meta name="description" content="Photos from talks, workshops and conferences — Geoff Keeling" />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .back-home {
+      margin-top: 1rem;
+      margin-bottom: 1.5rem;
+      font-size: 0.95rem;
+    }
+    .back-home a {
+      text-decoration: none;
+    }
+    .photo-figure {
+      margin: 1.5rem 0 2.5rem 0;
+    }
+    .photo-figure img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto;
+    }
+    .photo-figure figcaption {
+      font-size: 0.85rem;
+      line-height: 1.45;
+      margin-top: 0.65rem;
+      text-align: left;
+      color: var(--body-color);
+      opacity: 0.9;
+    }
+    .photo-figure figcaption::before {
+      content: none !important;
+    }
+  </style>
+</head>
+<body id="top" class="text-justify">
+  <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle dark mode">◐</button>
+
+  <p class="back-home">
+    <a href="index.html">← Geoff Keeling</a>
+  </p>
+
+  <header>
+    <h1>Photos</h1>
+    <p class="author">
+      Geoff Keeling
+    </p>
+  </header>
+
+  <main>
+    <article>
+      <figure class="photo-figure">
+        <img src="philosophers.jpg" alt="Geoff Keeling standing in a line with several philosophers" />
+        <figcaption>
+          <strong>LTR:</strong> Herman Cappelen, Murray Shanahan, John Hawthorne, Simon Goldstein, Daniel Herrmann, Geoff Keeling, Winnie Street, Paul Boghossian and Henry Shevlin. Minds, Meaning and Machines: New Work in the Philosophy of AI, Hong Kong University, 2026.
+        </figcaption>
+      </figure>
+
+      <figure class="photo-figure">
+        <img src="winnie%20geoff%20cmep.jpg" alt="Winnie Street and Geoff Keeling at the NYU Center for Mind, Ethics and Policy Summit" />
+        <figcaption>
+          <strong>LTR:</strong> Winnie Street and Geoff Keeling. NYU Center for Mind, Ethics and Policy Summit, New York, 2026.
+        </figcaption>
+      </figure>
+
+      <figure class="photo-figure">
+        <img src="keeling%20chalmers.jpeg" alt="David Chalmers and Geoff Keeling" />
+        <figcaption>
+          <strong>LTR:</strong> David Chalmers and Geoff Keeling. Google Workshop on AI Consciousness and Moral Patienthood, New York, 2025.
+        </figcaption>
+      </figure>
+
+      <figure class="photo-figure">
+        <img src="winnie%20geoff%20nyc.jpeg" alt="Jacy Reese Anthis, Winnie Street, Jonathan Birch, Geoff Keeling, and Roberta Rocca at the Google Workshop on AI Consciousness and Moral Patienthood" />
+        <figcaption>
+          <strong>LTR:</strong> Jacy Reese Anthis, Winnie Street, Jonathan Birch, Geoff Keeling, Roberta Rocca. Google Workshop on AI Consciousness and Moral Patienthood, New York, 2025.
+        </figcaption>
+      </figure>
+
+      <figure class="photo-figure">
+        <img src="Geoff%20Keeling%20Eleos%202025.jpg" alt="Geoff Keeling and Winnie Street giving the opening keynote at the 2025 Eleos AI Conference at Lighthaven, Berkeley" />
+        <figcaption>
+          Opening Keynote at the 2025 Eleos AI Conference on AI Consciousness and Welfare, Lighthaven, Berkeley.
+        </figcaption>
+      </figure>
+
+      <figure class="photo-figure">
+        <img src="geoff%20kate%20iason.JPG" alt="Kate Vredenburgh, Geoff Keeling and Iason Gabriel at Hong Kong University" />
+        <figcaption>
+          <strong>LTR:</strong> Kate Vredenburgh, Geoff Keeling and Iason Gabriel. Symposium: Themes from Iason Gabriel, Hong Kong University, 2025.
+        </figcaption>
+      </figure>
+
+      <figure class="photo-figure">
+        <img src="keeling%20bristol.jpeg" alt="Geoff Keeling at the AI Ethics, Risks and Safety Conference, Bristol, 2025" />
+        <figcaption>
+          AI Ethics, Risks and Safety Conference, Bristol, 2025.
+        </figcaption>
+      </figure>
+
+      <figure class="photo-figure">
+        <img src="keeling%20munich%20talk.jpeg" alt="Geoff Keeling speaking at Ethics of Generative AI and Conversational Agents, LMU Munich, 2024" />
+        <figcaption>
+          Ethics of Generative AI &amp; Conversational Agents, LMU Munich, 2024.
+        </figcaption>
+      </figure>
+
+      <p class="back-home" style="margin-top: 3rem;">
+        <a href="index.html">← Back to Geoff Keeling’s homepage</a>
+      </p>
+    </article>
+  </main>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const toggle = document.querySelector('#dark-mode-toggle');
+      if (toggle) {
+        toggle.addEventListener('click', () => {
+          document.body.classList.toggle('latex-dark');
+        });
+      }
+    });
+  </script>
+</body>
+</html>
