@@ -15,10 +15,37 @@
     .back-home a {
       text-decoration: none;
     }
+    nav.toc ol {
+      counter-reset: toc-item;
+      list-style: none;
+      padding-left: 0;
+    }
     nav.toc ol ol {
       padding-left: 1.5rem;
       margin-top: 0.25rem;
       margin-bottom: 0.35rem;
+    }
+    nav.toc li {
+      counter-increment: toc-item;
+    }
+    nav.toc li::before {
+      content: counters(toc-item, ".") "\00a0\00a0";
+    }
+    article {
+      counter-reset: section;
+    }
+    article h2 {
+      counter-reset: subsection;
+      counter-increment: section;
+    }
+    article h2::before {
+      content: counter(section) "\00a0\00a0\00a0";
+    }
+    article h3 {
+      counter-increment: subsection;
+    }
+    article h3::before {
+      content: counter(section) "." counter(subsection) "\00a0\00a0\00a0";
     }
   </style>
 </head>
