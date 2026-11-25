@@ -152,12 +152,14 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-            const toggle = document.querySelector('#dark-mode-toggle');
+      const toggle = document.querySelector('#dark-mode-toggle');
       if (toggle) {
         toggle.addEventListener('click', () => {
           const isDark = document.body.classList.toggle('latex-dark');
           localStorage.setItem('theme', isDark ? 'dark' : 'light');
         });
+      }
+    });
   </script>
 </body>
 </html>
